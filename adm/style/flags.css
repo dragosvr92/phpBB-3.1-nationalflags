@@ -3,3 +3,10 @@ img.flag_image {
 	height: 32px;
 	vertical-align:middle;
 }
+
+dd textarea.image {
+   background-image: url("Antarctica.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: scroll;   
+}
